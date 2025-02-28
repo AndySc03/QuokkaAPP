@@ -35,4 +35,4 @@ Contribuye al Proyecto
 
 Si deseas colaborar con el desarrollo de QuokkaAPP, revisa nuestro redes y súmate a la comunidad de desarrolladores comprometidos con la seguridad y los derechos de todas las personas que sufre de violencia de genero.
 
-Contáctanos | Comparte | ⭐ Apóyanos dando una estrella a este repositorio
+Contáctanos | Comparte | Apóyanos dando una estrella a este repositorio
