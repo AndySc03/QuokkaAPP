@@ -1,4 +1,5 @@
 QuokaAPP - Seguridad en tus manos
+![Estado](https://img.shields.io/badge/status-en%20desarrollo-purple) ![Plataforma](https://img.shields.io/badge/plataforma-Web%20%7C%20Mobile-blue) ![Licencia](https://img.shields.io/badge/licencia-MIT-green)
 
 Recopila evidencia en caso de abuso, de manera segura y discreta
 
